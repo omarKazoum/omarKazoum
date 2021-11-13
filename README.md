@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarKazoum
 - 👀 I’m interested in computer programming web/mobile/desktop
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning c
 - 📫 How to reach me omarkazoum96@gmail.com
 
 <!---
